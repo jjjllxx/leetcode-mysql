@@ -1,7 +1,7 @@
 # leetcode-mysql
 
 MySQL solutions to leetcode database question, divided by difficulty.  
-To learn MySQL knowledge, you can refer to [study-mysql](https://github.com/jjjllxx/study-mysql).  
+To learn MySQL knowledge, you can refer to [mysql-learning](https://github.com/jjjllxx/mysql-learning).  
 This repository focuses on database questions, if want algorithm question solutions from leetcode.Please turn to:  
 C++ Version: [leetcode-cpp](https://github.com/jjjllxx/leetcode-cpp)  
 Python3 Version: [leetcode-python](https://github.com/jjjllxx/leetcode-python)  
